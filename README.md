@@ -59,3 +59,7 @@ dibulla-hotel-analytics/
 │   ├── figures/             # Gráficas finales (PNG)
 │   └── reports/             # Tablas resumen (Excel/CSV)
 └── requirements.txt         # Dependencias del entorno
+```
+
+👨‍💻 Autor
+Diego Jimenez Data Strategist & Business Intelligence Analyst Conectando puntos entre datos complejos y estrategias de negocio rentables.LinkedIn | Portfolio
