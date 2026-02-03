@@ -26,16 +26,16 @@ Contrario a la hipótesis inicial, la demanda de Dibulla **no depende** de Palom
 * **Insight:** Detectamos "Océanos Azules" (Picos de demanda propios) en **Diciembre y Mayo**.
 * **Acción:** Implementación de *Yield Management* (Tarifas dinámicas) para maximizar ingresos en esas ventanas exclusivas.
 
-![Mapa de Oportunidad](outputs/figures/mapa_oportunidad_demanda.png)
-*(Gráfica generada con `src/03_visualization/visualize_demand_trends.py`)*
+<img width="1600" height="800" alt="Code_Generated_Image" src="https://github.com/user-attachments/assets/5e35b9bb-d6ac-4d18-a72d-140aaf35c80d" />
+
 
 ### 2. Validación Bioclimática: El "Aire Acondicionado" Natural
 Se procesaron **8,760 horas** de datos satelitales (Temperatura vs. Viento) para validar la arquitectura.
 * **Insight:** Existe una correlación perfecta entre el aumento de temperatura (12:00 PM - 3:00 PM) y el aumento de la velocidad del viento (Brisas Alisios).
 * **Acción:** Validación operativa de la infraestructura sostenible y protocolos de ventilación asistida solo para la franja crítica de las 16:00 horas.
 
-![Confort Bioclimatico](outputs/figures/grafica_confort_bioclimatico.png)
-*(Gráfica generada con `src/03_visualization/visualize_climate_comfort.py`)*
+<img width="3600" height="1800" alt="grafica_confort_bioclimatico" src="https://github.com/user-attachments/assets/30f3bbc6-9ee0-432f-8056-97b0b74b9c69" />
+
 
 ### 3. Estrategia de Nicho: Ciencia Ciudadana
 La auditoría de biodiversidad (GBIF) reveló un sesgo del 99% en registros de una sola especie (*Tyrannus melancholicus*).
