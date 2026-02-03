@@ -9,7 +9,7 @@
 > **Business Intelligence Strategy aplicada a la reactivación de un Hotel Ecológico en el Caribe Colombiano.** > Este proyecto transforma datos dispersos (Clima, Biodiversidad y Tendencias de Búsqueda) en decisiones de negocio rentables.
 
 
-##  Resumen Ejecutivo (The Business Case)
+##  Resumen Ejecutivo 
 
 **El Desafío:** El Hotel Coccoloba (Dibulla, La Guajira) enfrentaba tres incertidumbres críticas operando bajo "intuición":
 1.  **Validación de Infraestructura:** El hotel no utiliza aire acondicionado. Se necesitaba validar si el confort térmico era viable todo el año.
@@ -19,7 +19,7 @@
 **La Solución:** Se diseñó un pipeline de extracción de datos (ETL) utilizando fuentes abiertas (**GBIF, Open-Meteo, Google Trends**) para auditar el entorno digital y físico del hotel.
 
 
-##  Hallazgos Clave (Data Insights)
+##  Hallazgos Clave 
 
 ### 1. Market Intelligence: Desacople de la Competencia
 Contrario a la hipótesis inicial, la demanda de Dibulla **no depende** de Palomino.
